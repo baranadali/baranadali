@@ -1,6 +1,14 @@
 **Hey, I'm Baran** 👋
 
-I am a Software Developer experienced in building modern web and mobile applications. I work with React.js, Next.js, TypeScript, TailwindCSS, and Supabase on the frontend and backend, and develop mobile apps using React Native, Expo, and NativeWind. I also have experience with SQL, API development, and creating functional UI layouts in Figma.
+  I'm a software developer based in Istanbul. I build products end-to-end — mobile apps, web applications, backend APIs, and the infrastructure behind them.
 
-<a href="https://baran.work/">Portfolio →</a> <br>
-<a href="https://twitter.com/baaranadali">@baaranadali on Twitter →</a>
+  I work mainly with React Native/Expo, Next.js, Node.js, and TypeScript. I also have hands-on experience with AI/LLM integrations, real-time streaming, Python automation, and
+  writing native iOS widgets in Swift.
+
+  I built [Riuve](https://riuve.com) — a complete SaaS platform for behavioral push notifications — entirely from scratch, including published npm SDKs, backend, dashboard, admin
+  panel, and docs.
+
+  Currently working at [Hellospace](https://hellospace.com), previously freelance.
+
+  <a href="https://baranadali.com/">Portfolio →</a> <br>
+  <a href="https://twitter.com/baaranadali">@baaranadali on Twitter →</a>
