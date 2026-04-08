@@ -8,7 +8,7 @@
   I built [Riuve](https://riuve.com) — a complete SaaS platform for behavioral push notifications — entirely from scratch, including published npm SDKs, backend, dashboard, admin
   panel, and docs.
 
-  Currently working at [Hellospace](https://hellospace.com), previously freelance.
+  Currently working at [Hellospace](https://hellospace.world), previously freelance.
 
-  <a href="https://baranadali.com/" target="_blank">Portfolio →</a> <br>
+  <a href="https://baran.work/" target="_blank">Portfolio →</a> <br>
   <a href="https://twitter.com/baaranadali" target="_blank">@baaranadali on Twitter →</a>
