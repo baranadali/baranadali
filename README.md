@@ -10,5 +10,5 @@
 
   Currently working at [Hellospace](https://hellospace.com), previously freelance.
 
-  <a href="https://baranadali.com/">Portfolio →</a> <br>
-  <a href="https://twitter.com/baaranadali">@baaranadali on Twitter →</a>
+  <a href="https://baranadali.com/" target="_blank">Portfolio →</a> <br>
+  <a href="https://twitter.com/baaranadali" target="_blank">@baaranadali on Twitter →</a>
