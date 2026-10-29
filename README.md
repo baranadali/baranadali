@@ -1,14 +1,14 @@
-**Hey, I'm Baran** 👋
+### Hey, I'm Baran 👋
 
-  I'm a software developer based in Istanbul. I build products end-to-end — mobile apps, web applications, backend APIs, and the infrastructure behind them.
+I turn ideas into products people actually use: mobile apps, web apps, and the backends that keep them running.
 
-  I work mainly with React Native/Expo, Next.js, Node.js, and TypeScript. I also have hands-on experience with AI/LLM integrations, real-time streaming, Python automation, and
-  writing native iOS widgets in Swift.
+Most of what I build starts as a blank folder and ends up in production. Along the way I've written offline-first sync engines, real-time collaborative editors, push notification pipelines, billing systems, and AI assistants that call tools and stream their answers.
 
-  I built [Riuve](https://riuve.com) — a complete SaaS platform for behavioral push notifications — entirely from scratch, including published npm SDKs, backend, dashboard, admin
-  panel, and docs.
+My everyday stack is TypeScript across the board: React Native and Expo on mobile, Next.js on the web, Node.js on the server, with PostgreSQL and Redis underneath. When a problem needs it, I drop into Swift, Python or .NET.
 
-  Currently working at [Hellospace](https://hellospace.world), previously freelance.
+I build AI-native. Agents write a lot of the code; I write the specs, shape the context, review every line and own the architecture.
 
-  <a href="https://baran.work/" target="_blank">Portfolio →</a> <br>
-  <a href="https://twitter.com/baaranadali" target="_blank">@baaranadali on Twitter →</a>
+Right now I'm building [Contravise](https://contravise.co) and [Riuve](https://riuve.com).
+
+<a href="https://baran.work/" target="_blank">Portfolio →</a> <br>
+<a href="https://twitter.com/baaranadali" target="_blank">@baaranadali on Twitter →</a>
